@@ -477,7 +477,7 @@ pre,
   padding: 0;
   font-size: 13px;
   color: #c5c8c6;
-  background: #f7f7f7;
+  background: #1d1f21;
   line-height: 1.6;
 }
 pre,
@@ -539,14 +539,14 @@ pre code {
 .highlight .gutter pre {
   padding-left: 10px;
   padding-right: 10px;
-  color: #fbfbfb;
+  color: #888f96;
   text-align: right;
   background-color: #000;
 }
 .highlight .code pre {
   padding-left: 10px;
   padding-right: 10px;
-  background-color: #f7f7f7;
+  background-color: #1d1f21;
 }
 .highlight .line {
   height: 20px;
@@ -1686,7 +1686,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffb9ff;
+  background: #b009ba;
 }
 .links-of-blogroll {
   font-size: 13px;
